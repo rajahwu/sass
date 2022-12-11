@@ -6,7 +6,7 @@ A series of sass tutorials.
 
 [Watch on YouTube!](https://www.youtube.com/watch?v=wYWf2m_yzBQ&t=37s)
 
-// Chapters
+### Chapters
 
 * 00:00 - Introduction
 * 01:05 - Getting started with npm
