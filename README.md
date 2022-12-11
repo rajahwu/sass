@@ -2,7 +2,7 @@
 
 A series of sass tutorials.
 
-## Sass with auto-refresh (and more) made easy
+## Sass with auto-refresh (and more) made easy with [Kevin Powell](https://www.youtube.com/@KevinPowell)
 
 [Watch on YouTube!](https://www.youtube.com/watch?v=wYWf2m_yzBQ&t=37s)
 
